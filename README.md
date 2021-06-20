@@ -1,5 +1,4 @@
 # Bootcamp Full Stack web
-## Práctica: DevOps y servidores
 Asignatura: DevOps, configuración de servidores y despliegue de aplicaciones
 
 ### Repo de la práctica de back-end desplegada
