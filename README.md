@@ -1,5 +1,5 @@
 # Bootcamp Full Stack web X
-Asignatura: DevOps, configuración de servidores y despliegue de aplicaciones
+Asignatura: Configuración de servidores y despliegue de aplicaciones (DevOps)
 
 ### Repo de la práctica de back-end desplegada en el servidor:
 https://github.com/oscarCorb/KC-03-practica-backend-nodejs
