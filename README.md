@@ -8,4 +8,4 @@ https://github.com/oscarCorb/KC-03-practica-backend-nodejs
 https://oscarcorb.es
 
 ### IP del servidor:
-[54.151.96.172](54.151.96.172)
+54.151.96.172
