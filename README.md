@@ -5,7 +5,7 @@ Asignatura: DevOps, configuración de servidores y despliegue de aplicaciones
 https://github.com/oscarCorb/KC-03-practica-backend-nodejs
 
 ### Dominio
-https://oscarcorb.es
+https://oscarcorb.es{:target="_blank"}
 
 ### IP del servidor
-54.151.96.172
+[54.151.96.172](54.151.96.172){:target="_blank"}
